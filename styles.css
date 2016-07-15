@@ -20,6 +20,7 @@ body {
   background-color: white;
   width: 70%;
   height: auto;
+  margin-bottom: 30px;
   text-align: center;
   transition: color 2.5s ease-out;
   border-radius: 10px;
