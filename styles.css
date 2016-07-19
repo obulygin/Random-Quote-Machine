@@ -58,13 +58,6 @@ blockquote cite {
   transition: background-color 2.5s ease-out;
 }
 
-.btn:focus,
-.btn:hover,
-footer a,
-footer a:hover {
-  color: white;
-}
-
 footer {
   position: absolute;
   bottom: 0;
@@ -72,3 +65,13 @@ footer {
   height: auto;
   color: white;
 }
+
+.btn:focus,
+.btn:hover,
+footer a,
+footer a:hover,
+footer a: visited {
+  color: white;
+}
+
+
